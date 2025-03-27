@@ -176,4 +176,4 @@ cython_debug/
 # TensorBoard logs
 runs/
 
-*.npy
+*.npy.python-version
