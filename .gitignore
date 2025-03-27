@@ -175,3 +175,5 @@ cython_debug/
 
 # TensorBoard logs
 runs/
+
+*.npy
